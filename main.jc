@@ -1,0 +1,12 @@
+{
+  "ownerName": "ACE PRIME",
+  "siteTitle": "ACE PRIME Portfolio",
+  "whatsapp": "+919954151225",
+  "whatsapp_link": "https://wa.me/919954151225",
+  "theme": "dark",
+  "description": "Personal page for ACE PRIME — developer and open-source enthusiast.",
+  "projects": [
+    {"name":"Project Alpha","repo":"https://github.com/ACE-PRIME/project-alpha"},
+    {"name":"Project Beta","repo":"https://github.com/ACE-PRIME/project-beta"}
+  ]
+}
